@@ -35,7 +35,7 @@ These sensors are used to learn about water quality or other environmental detai
 * [BNO085 9-DOF Orientation Sensor](https://www.adafruit.com/product/4754)
   * Used to detect and measure boat waves
 * Atlas Scientific pH Sensor ([Carrier Board](https://www.amazon.com/Atlas-Scientific-Electrically-Isolated-Carrier/dp/B084T5ZZGQ), [Probe](https://www.amazon.com/Atlas-Scientific-Consumer-Grade-Probe/dp/B07VDMNB92), [Sensor](https://www.amazon.com/Atlas-Scientific-Gravity-Analog-Sensor/dp/B07SNGVH5T))
-  * pH must be [calibrated](/docs/sensors/ph#calibration) before deployment
+  * pH must be [calibrated](#) before deployment
 * [SEN0244 Gravity Analog TDS Sensor](https://wiki.dfrobot.com/Gravity__Analog_TDS_Sensor___Meter_For_Arduino_SKU__SEN0244)
   * Used to monitor the amount of conductive particles in the water
   * Deployed 3 feet underwater
