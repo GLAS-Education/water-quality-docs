@@ -1,4 +1,4 @@
-# Component List
+# Components List
 
 ## Core
 
